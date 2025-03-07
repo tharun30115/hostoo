@@ -9,7 +9,7 @@ const Header = () => {
 		>
 			<div className="w-full h-full bg-black opacity-35 absolute left-0 top-0 z-20"></div>
 			<div className="w-full flex items-center justify-between">
-				<div className="text-white font-bold text-[28px] cursor-pointer z-50">Hostify</div>
+				<div className="text-white font-bold text-[28px] cursor-pointer z-50">Hostoo</div>
 				<div className="hidden md:flex items-center gap-[62px] z-50">
 					<a
 						href="#"
