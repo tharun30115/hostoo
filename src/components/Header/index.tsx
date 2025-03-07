@@ -15,7 +15,7 @@ const Header = () => {
 						href="#"
 						className="text-white no-underline font-medium text-[18px] transition-all duration-300 hover:text-violet-300"
 					>
-						Hosting
+						Hostoo
 					</a>
 					<a
 						href="#"
